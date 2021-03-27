@@ -11,11 +11,14 @@ import { SharedModule } from './shared/shared.module';
 import { AuthModule } from './auth/auth.module';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
 
     NopagefoundComponent,
+
+
 
 
 
